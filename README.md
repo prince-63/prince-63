@@ -1,6 +1,6 @@
 <h1>Hi there 👋, Welcome!</h1>
 
-![This is img](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.digitaladlectio.com%2Fhome%2Fnew-pnc-animated-banners%2F&psig=AOvVaw1BZTWqN_Q7Makn5P478n5e&ust=1694108931081000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIDc5oDGloEDFQAAAAAdAAAAABAD)
+![68747470733a2f2f7170682e6366322e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133](https://github.com/prince-63/prince-63/assets/111671729/7d05ed68-1dbd-4417-b1a2-cffe33954778)
 
 Hello!👋 My name is **Prince Kumar.** I am from india taking b.tech in computer science and engineering.
 
