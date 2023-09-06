@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prince.</h1>
-<!-- <h3 align="center">A passionate Technology.</h3> -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prince-63&label=Profile%20views&color=0e75b6&style=flat" alt="prince-63" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prince-63" alt="prince-63" /></a> </p>
+<h3 align="center">A passionate Technology.</h3>
 
 - 💬 Ask me about **Frontend devlopment.**
 
