@@ -1,9 +1,21 @@
-<h1 align="center">Hi 👋, I'm Prince.</h1>
-<h3 align="center">A passionate Technology.</h3>
+<h1>Hi there 👋, Welcome!</h1>
 
-- 💬 Ask me about **Frontend devlopment.**
+![This is img](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.digitaladlectio.com%2Fhome%2Fnew-pnc-animated-banners%2F&psig=AOvVaw1BZTWqN_Q7Makn5P478n5e&ust=1694108931081000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIDc5oDGloEDFQAAAAAdAAAAABAD)
 
-- 📫 How to reach me **princekumar.priku@gmail.com** & **princekumarprasad12345@gmail.com**
+Hello!👋 My name is **Prince Kumar.** I am from india taking b.tech in computer science and engineering.
+
+I have a huge interest in web development, app development, data science 🧑‍💻 as well coding 💻! Currently studying data engineering, app development, web development. 
+
+Currently Microsoft Learn Student Ambassador, GitHub Global Campus Student🧑🏻‍🎓.
+
+I love to join different community add competition that involve creating something for the society! 
+
+Skills:
+communication | collaboration | development.
+
+- 📫 How to reach me
+  - princekumar.priku@gmail.com
+  - princekumarprasad12345@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
