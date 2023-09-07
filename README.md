@@ -4,7 +4,7 @@
 
 Hello!👋 My name is **Prince Kumar.** I am from india taking b.tech in computer science and engineering.
 
-I have a huge interest in web development, app development, data science 🧑‍💻 as well coding 💻! Currently studying data engineering, app development, web development. 
+I have a huge interest in web development, app development 🧑‍💻 as well coding 💻! Currently studying app development, web development. 
 
 Currently Microsoft Learn Student Ambassador, GitHub Global Campus Student🧑🏻‍🎓.
 
