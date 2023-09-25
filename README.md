@@ -2,16 +2,13 @@
 
 ![68747470733a2f2f7170682e6366322e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133](https://github.com/prince-63/prince-63/assets/111671729/7d05ed68-1dbd-4417-b1a2-cffe33954778)
 
-Hello!👋 My name is **Prince Kumar.** I am from india taking b.tech in computer science and engineering.
+My name is **Prince Kumar**, and I'm a computer science and engineering student from India.
 
-I have a huge interest in web development, app development 🧑‍💻 as well coding 💻! Currently studying app development, web development. 
+I have a strong interest in web and app development, as well as coding 🧑‍💻 in general.
 
-Currently Microsoft Learn Student Ambassador, GitHub Global Campus Student🧑🏻‍🎓.
+Currently, I'm studying app development, and I'm also a Microsoft Learn Student Ambassador and a GitHub Global Campus Student.
 
-I love to join different community add competition that involve creating something for the society! 
-
-Skills:
-communication | collaboration | development.
+I enjoy participating in competitions that involve creating something for society, and I'm skilled in communication, collaboration, and development.
 
 - 📫 How to reach me
   - princekumar.priku@gmail.com
