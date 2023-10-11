@@ -12,6 +12,3 @@
 - 📫 <span style="font-family: Calibri">How to reach me</span>
   - <span style="font-family: Calibri">princekumar.priku@gmail.com</span>
   - <span style="font-family: Calibri">princekumarprasad12345@gmail.com</span>
-
-- Portfolio
-    - <a href="https://princekumar.xyz" target="_blank">Click here</a>
