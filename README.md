@@ -5,7 +5,7 @@
 <p style="font-family: Calibri">My name is <strong><a href="https://princekumar.azurewebsites.net/" target="_blank">Prince Kumar</a></strong>, and I'm a computer science and engineering student from India.</p>
 <p style="font-family: Calibri">I have a strong interest in web and app development, as well as coding 🧑‍💻 in general.</p>
 
-<p style="font-family: Calibri">Currently, I'm studying app development, and I'm also a Microsoft Learn Student Ambassador and a GitHub Global Campus Student.</p>
+<p style="font-family: Calibri">Currently, I'm studying app development, and I'm also a Microsoft Learn Student Ambassador.</p>
 
 <p style="font-family: Calibri">I enjoy participating in competitions that involve creating something for society, and I'm skilled in communication, collaboration, and development.</p>
 
