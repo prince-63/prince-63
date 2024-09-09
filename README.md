@@ -14,7 +14,7 @@
 - 🛠 &nbsp; I’m currently working with Reactjs, Flutter, Nodejs, Mongodb, Javascript, Dart, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/prince-63).
-- 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/prince-63/)! I am happy to help.
+- 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/prince63/)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: prince08833@gmail.com
 - 📝 &nbsp; Checkout my [Resume](<[https://drive.google.com/file/d/1rRcz95GEzskvz_kP-YRjeeqKqXQJerJ1/view](https://prince-63.github.io/bio/files/Resume.pdf)>).
