@@ -1,58 +1,62 @@
-<p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=800&color=1BCDFF&center=true&vCenter=true&random=false&width=600&height=60&lines=Welcome+to+my+Github+Profile!;Web+Development;Mobile Application Development;Especially+Backend+Development" alt="prince-63" /></a>
-</p>
+## Hey 👋, I'm [Prince Kumar Prasad](https://github.com/prince-63/)
 
-<!-- Short Introduction -->
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prince63/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://princekumar.xyz)
 
-<h3 align = "left">
-  Hi, there. 
+#### Glad to see you here! &nbsp;
 
-#### Thanks for visiting :heart:
+- I'm a Computer Science and Engineering Student 🧑.
+- I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.
+- I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love communicate about new technology 👨🏻‍💻.
 
-&emsp;
+#### Talking about Personal Stuffs:
 
-</h3>
-<p>I am a dedicated student and aspiring software engineer, eager to explore new technologies and push boundaries. With growing experience in web and mobile development, as well as backend engineering, I am learning to leverage tools like Docker and Kubernetes, building a strong foundation in technology as I continue to expand my skills.</p>
+- 🛠 &nbsp; I’m currently working with Reactjs, Flutter, Nodejs, Mongodb, Javascript, Dart, etc.
+- 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/prince-63).
+- 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/prince-63/)! I am happy to help.
+- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
+- 📫 &nbsp; How to reach me: prince08833@gmail.com
+- 📝 &nbsp; Checkout my [Resume](<[https://drive.google.com/file/d/1rRcz95GEzskvz_kP-YRjeeqKqXQJerJ1/view](https://prince-63.github.io/bio/files/Resume.pdf)>).
 
-### Technologies & Tools
-- **Basic:** JavaScript, TypeScript, Python, Java, C#, C++, C
-- **Front-End:** React.js, Next.js, Redux, Tailwind CSS, Bootstrap, Material-UI, Framer Motion
-- **Back-End:** Node.js, Express.js
-- **Database:** Firebase, MySQL, PostgreSQL, SQLite, MongoDB
-- **Tools:** Git, GitHub, GitLab, Postman, Figma
-- **Cloud:** Netlify, Vercel, Azure
-- **IDE:** Visual Studio Code, IntelliJ IDEA, Android Studio
+#### Languages & Tools
 
-<p>I can't acclimate with 99.(9)%, Only by sending 100% perfect project my Clients!</p>
-<p></p>
+<div align="left">      
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,dart,javascript,typescript,react,next,flutter,express,spring,mongodb,mysql,azure" />
+</div>
 
-<!-- Skills Section -->
-<h2 align="left">🚀Skills🚀</h2>
+#### Projects and Dev Stuffs:
 
-<div>
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prince-63&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <br />
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince-63&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
 
-#### 🔥Major Programming Languages:
+<details>	
+  <summary><b>☄️ Github Streaks</b></summary>
+  <br />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=prince-63&hide_border=true" />
+</details>
+ 
+<details>	
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> Ubuntu 22.4 & Window 11</li>
+	    <li><b>Laptop: </b> Asus (i5)</li>
+  	    <li><b>Browser: </b> Microsoft Edge </li>
+	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
+	    <li><b>Code Editor:</b> VSCode, Intelij - The best editor out there.</li>
+	    <li><b>To Stay Updated:</b> Linkedin and GitHub.</li>
+	    <br />
+		</ul>	
+</details>
 
-  <div align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,jquery,js,ts,threejs,php,java,py,go,ruby,cs,solidity,swift,kotlin" />
-  </div>
+<div align="center">
 
-#### ⛓️Frameworks and Skills:
+#### Show some ❤️ by starring some of the repositories!
 
-  <div align="left">      
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,redux,nextjs,vue,nuxtjs,angular" />
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,spring,django,flask,pytorch,tensorflow,dotnet,figma,flutter,webflow,wordpress" />
-  </div>
-  
-#### 🧵Database & Skills:
-
-  <div align="left">      
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,graphql,firebase,supabase,redis,postman" />
-  </div>
-
-#### ⚡️Other Essentials:
-
-  <div align="left">      
-    <img src="https://skillicons.dev/icons?i=git,gitlab,github,powershell,linux,bash,docker,kubernetes,nginx,heroku,netlify,vercel,cloudflare,aws,gcp,azure,ai,bots" />
-  </div>
 </div>
