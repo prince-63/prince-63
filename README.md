@@ -17,7 +17,7 @@
 - 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/prince63/)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: prince08833@gmail.com
-- 📝 &nbsp; Checkout my [Resume](https://prince-63.github.io/bio/files/Resume.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/16JOWOEnuc3E-5L2kD_0qEYMWLCwrHDo0/view?usp=sharing).
 
 #### Languages & Tools
 
@@ -25,7 +25,7 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,java,dart,javascript,typescript,react,next,flutter,express,spring,mongodb,mysql,azure" />
 </div>
 
-#### Projects and Dev Stuffs:
+#### Dev Stuffs:
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
@@ -40,7 +40,8 @@
   <br />
   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=prince-63&hide_border=true" />
 </details>
- 
+
+ <!--
 <details>	
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
@@ -57,6 +58,7 @@
 
 <div align="center">
 
-#### Show some ❤️ by starring some of the repositories!
+	Show some ❤️ by starring some of the repositories!
 
 </div>
+-->
