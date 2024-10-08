@@ -25,6 +25,7 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,java,dart,javascript,typescript,react,next,flutter,express,spring,mongodb,mysql,azure" />
 </div>
 
+<!--
 #### Dev Stuffs:
 
 <details>	
@@ -41,7 +42,6 @@
   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=prince-63&hide_border=true" />
 </details>
 
- <!--
 <details>	
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
