@@ -17,7 +17,7 @@
 - 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/prince63/)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: prince08833@gmail.com
-- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1zApkvzUN0UlKxmkF68H5rU_ka1-V_Sn3/view?usp=sharing).
+- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1q0lL6RNWvcDHEL0vCgHNO7yEjG7OujS-/view?usp=sharing).
 
 #### Languages & Tools
 
