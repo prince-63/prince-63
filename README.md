@@ -14,7 +14,7 @@ I’m explorative, multi-talented, and unafraid to take action - regardless of t
 #### Languages & Tools
 
 <div align="left">      
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,dart,javascript,typescript,react,next,flutter,express,spring,mongodb,mysql,azure" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,typescript,react,next,express,spring,mongodb,mysql,azure,aws" />
 </div>
 
 <!--
