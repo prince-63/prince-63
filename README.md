@@ -5,19 +5,11 @@
 
 #### Glad to see you here! &nbsp;
 
-- I'm a Computer Science and Engineering Student 🧑.
-- I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.
-- I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love communicate about new technology 👨🏻‍💻.
+I'm a Computer Science Engineering student who doesn’t like to work in simple ways. I find joy in making simple things complex and complex things simple, turning ordinary ideas into impactful solutions. My approach dives deep into business logic and implementation - often messy, but always meaningful. I don’t always structure projects perfectly for deployment, but I’m obsessed with understanding the core of the business, and that drives the success of every project I touch.
 
-#### Talking about Personal Stuffs:
+Here’s the truth: I may seem a bit chaotic at first, but if you work with me, you’ll quickly realize my persistence. I don’t rest until the project is complete. Most people quit after 10 or 15 days because my pace is relentless. But that’s what it takes to build something truly impactful.
 
-- 🛠 &nbsp; I’m currently working with Reactjs, Flutter, Nodejs, Mongodb, Javascript, Dart, etc.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/prince-63).
-- 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/prince63/)! I am happy to help.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: prince08833@gmail.com
-- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1q0lL6RNWvcDHEL0vCgHNO7yEjG7OujS-/view?usp=sharing).
+I’m explorative, multi-talented, and unafraid to take action - regardless of the outcome. Collaboration and communication come naturally to me, and I thrive in environments where ideas are shared freely and openly.
 
 #### Languages & Tools
 
