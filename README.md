@@ -1,7 +1,6 @@
 ## Hey 👋, I'm [Prince Kumar Prasad](https://github.com/prince-63)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prince63/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://princekumar.xyz)
 
 #### Glad to see you here! &nbsp;
 
